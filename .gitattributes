@@ -1,1 +1,2 @@
 LHQFFmpeg/LHQFFmpeg/FFmpeg-iOS filter=lfs diff=lfs merge=lfs -text
+*.FFmpeg-iOS filter=lfs diff=lfs merge=lfs -text
